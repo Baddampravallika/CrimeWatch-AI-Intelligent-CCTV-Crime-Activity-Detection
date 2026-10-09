@@ -1,5 +1,8 @@
 # Crime Activity Detection Using EfficientNetB0 and LSTM
 
+** Dataset link:- https://www.crcv.ucf.edu/data1/chenchen/UCF_Crimes.zip
+make sure that dataset is uploaded in jupyter
+
 ## Project Overview
 
 This project explores video-based crime activity classification using deep learning. It uses a pretrained **EfficientNetB0** model to extract visual features from video frames and an **LSTM (Long Short-Term Memory)** layer to learn temporal patterns across a sequence of frames.
